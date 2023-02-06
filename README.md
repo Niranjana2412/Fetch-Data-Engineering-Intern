@@ -17,3 +17,4 @@ This shows the user counts in different states
 This shows sales from different states.
 
 Using these two graphs, one can target their products and improve sales.
+For task 3, we can also point out that the number of users_scanned is increasing with each month at a linear rate
