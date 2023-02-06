@@ -7,6 +7,8 @@ How to run this:
 NOTE: Please change the file location to where you have stored CSV in the COPY queries!
 
 For Task 1, there is an image uploaded 
+
+
 For Task 3
 ![Users from Different States](https://user-images.githubusercontent.com/42695189/217102285-1151dc41-cbe1-4134-9edf-cb06ba88d2c5.jpeg)
 This shows the user counts in different states
